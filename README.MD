@@ -12,6 +12,7 @@ instalar biblioteca de datas:
 
 instalar json-server: 
       yarn add json-server -D
+
 criar chamada no script: 
       "server": "json-server server.json -w -d 750 -p 3333"
 
