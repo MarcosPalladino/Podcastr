@@ -1,26 +1,11 @@
-instalar o typescript:
-      yarn add typescript @types/react @types/node -D
-
-instalar o SASS:
-      yarn add sass
-      
-instalar font Lexend tamanhos 500 e 600, usar google fonts      
-instalar font inter tamanha regular 400
-
-instalar biblioteca de datas:
-      yard add date-fns
+instalar dependencias
+      yarn install
 
 instalar json-server: 
       yarn add json-server -D
 
 criar chamada no script: 
       "server": "json-server server.json -w -d 750 -p 3333"
-
-instalar o axios
-      yarn add axios
-
-instalar lib rc-slider
-      yarn add rc-slider
 
 para executar projeto como dev:
       yarn dev
